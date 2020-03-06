@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="546b13ae-a7f5-4e16-823f-2b964c6cc680" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApp/Services/UserServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Services/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Services/CultureProviderResolverService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/MiddleWare/CommunicationMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Extensions/CommunicationMiddlewareExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Localization/Controllers/GameInvitationController.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/UserRegistration/EmailConfirmation.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Localization/Controllers/GameInvitationController.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Localization/Controllers/GameInvitationController.fr.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Localization/Controllers/GameInvitationController.fr.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/UserModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/UserRegistrationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/UserRegistration/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/GameInvitationModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/GameInvitationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/GameInvitation/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/231CAC4C-D307-4AEA-83F1-76589F64BFB3/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebApp/Models/UserModel.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Extensions/ommunicationMiddlewareExtension.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Extensions/CommunicationMiddlewareExtension.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/UserRegistration/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Services/IUserService.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Services/UserServices.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Models/GameInvitationModel.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/GameInvitation/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/UserRegistration/EmailConfirmation.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/UserRegistrationController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/app/js/scripts1.js" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/app/js/scripts2.js" />
+        <option value="$PROJECT_DIR$/WebApp/WebApp.csproj" />
+        <option value="$PROJECT_DIR$/WebApp/MiddleWare/CommunicationMiddleware.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/WebApp/Services/CultureProviderResolverService.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Localization/Controllers/GameInvitationController.Designer.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/GameInvitationController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YH4z3ReIQ2gcqsCnF7lMJjsrYo" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApp">
+    <configuration name="WebApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApp/WebApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApp: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApp/WebApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="546b13ae-a7f5-4e16-823f-2b964c6cc680" name="Default Changelist" comment="" />
+      <created>1582586445644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582586445644</updated>
+      <workItem from="1582586449205" duration="18502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="640" y="124" key="#HTTP_Proxy" timestamp="1582657814926">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="124" key="#HTTP_Proxy/0.0.1440.900@0.0.1440.900" timestamp="1582657814926" />
+    <state width="672" height="294" key="GridCell.Tab.0.bottom" timestamp="1582720531646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582720531646" />
+    <state width="672" height="294" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582715256405" />
+    <state width="672" height="294" key="GridCell.Tab.0.center" timestamp="1582720531645">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582720531645" />
+    <state width="672" height="294" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1582715256404" />
+    <state width="672" height="294" key="GridCell.Tab.0.left" timestamp="1582720531645">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582720531645" />
+    <state width="672" height="294" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1582715256403" />
+    <state width="672" height="294" key="GridCell.Tab.0.right" timestamp="1582720531646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582720531646" />
+    <state width="672" height="294" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1582715256405" />
+    <state width="672" height="294" key="GridCell.Tab.1.bottom" timestamp="1582720531647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582720531647" />
+    <state width="672" height="294" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582715256416" />
+    <state width="672" height="294" key="GridCell.Tab.1.center" timestamp="1582720531647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582720531647" />
+    <state width="672" height="294" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1582715256415" />
+    <state width="672" height="294" key="GridCell.Tab.1.left" timestamp="1582720531646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582720531646" />
+    <state width="672" height="294" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1582715256415" />
+    <state width="672" height="294" key="GridCell.Tab.1.right" timestamp="1582720531647">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582720531647" />
+    <state width="672" height="294" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1582715256416" />
+    <state width="672" height="294" key="GridCell.Tab.2.bottom" timestamp="1582720531649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582720531649" />
+    <state width="672" height="294" key="GridCell.Tab.2.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582715256411" />
+    <state width="672" height="294" key="GridCell.Tab.2.center" timestamp="1582720531648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1582720531648" />
+    <state width="672" height="294" key="GridCell.Tab.2.center/0.23.1440.831@0.23.1440.831" timestamp="1582715256409" />
+    <state width="672" height="294" key="GridCell.Tab.2.left" timestamp="1582720531648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1582720531648" />
+    <state width="672" height="294" key="GridCell.Tab.2.left/0.23.1440.831@0.23.1440.831" timestamp="1582715256409" />
+    <state width="672" height="294" key="GridCell.Tab.2.right" timestamp="1582720531649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1582720531649" />
+    <state width="672" height="294" key="GridCell.Tab.2.right/0.23.1440.831@0.23.1440.831" timestamp="1582715256410" />
+    <state width="672" height="294" key="GridCell.Tab.3.bottom" timestamp="1582720531650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582720531650" />
+    <state width="672" height="294" key="GridCell.Tab.3.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582715256412" />
+    <state width="672" height="294" key="GridCell.Tab.3.center" timestamp="1582720531650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1582720531650" />
+    <state width="672" height="294" key="GridCell.Tab.3.center/0.23.1440.831@0.23.1440.831" timestamp="1582715256411" />
+    <state width="672" height="294" key="GridCell.Tab.3.left" timestamp="1582720531649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1582720531649" />
+    <state width="672" height="294" key="GridCell.Tab.3.left/0.23.1440.831@0.23.1440.831" timestamp="1582715256411" />
+    <state width="672" height="294" key="GridCell.Tab.3.right" timestamp="1582720531650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1582720531650" />
+    <state width="672" height="294" key="GridCell.Tab.3.right/0.23.1440.831@0.23.1440.831" timestamp="1582715256412" />
+    <state width="672" height="294" key="GridCell.Tab.4.bottom" timestamp="1582720531652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.4.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582720531652" />
+    <state width="672" height="294" key="GridCell.Tab.4.bottom/0.23.1440.831@0.23.1440.831" timestamp="1582715256414" />
+    <state width="672" height="294" key="GridCell.Tab.4.center" timestamp="1582720531651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.4.center/0.0.1440.900@0.0.1440.900" timestamp="1582720531651" />
+    <state width="672" height="294" key="GridCell.Tab.4.center/0.23.1440.831@0.23.1440.831" timestamp="1582715256413" />
+    <state width="672" height="294" key="GridCell.Tab.4.left" timestamp="1582720531651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.4.left/0.0.1440.900@0.0.1440.900" timestamp="1582720531651" />
+    <state width="672" height="294" key="GridCell.Tab.4.left/0.23.1440.831@0.23.1440.831" timestamp="1582715256413" />
+    <state width="672" height="294" key="GridCell.Tab.4.right" timestamp="1582720531652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="672" height="294" key="GridCell.Tab.4.right/0.0.1440.900@0.0.1440.900" timestamp="1582720531652" />
+    <state width="672" height="294" key="GridCell.Tab.4.right/0.23.1440.831@0.23.1440.831" timestamp="1582715256414" />
+    <state x="320" y="189" key="Rider.ProjectTemplateDialog.Size" timestamp="1582616591502">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="189" key="Rider.ProjectTemplateDialog.Size/0.23.1440.832@0.23.1440.832" timestamp="1582616591502" />
+    <state x="509" y="147" key="RiderGenerateDialog" timestamp="1582665960960">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="147" key="RiderGenerateDialog/0.0.1440.900@0.0.1440.900" timestamp="1582665960960" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582660294467">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1582660294467" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1582674977898">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582674977898" />
+  </component>
+</project>
